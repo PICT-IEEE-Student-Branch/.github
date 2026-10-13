@@ -10,27 +10,31 @@
 
 <p align="center">
   <b>Jump to:</b>
-  <a href="#what-pisb-is-known-for">Highlights</a> ·
+  <a href="#about-pisb">About</a> ·
   <a href="#where-do-i-push-my-work">Where do I push?</a> ·
   <a href="#credenz-events">Credenz events</a> ·
   <a href="#sigs">SIGs</a> ·
   <a href="#memories">Memories</a> ·
   <a href="#research">Research</a> ·
-  <a href="#about-pisb">About PISB</a>
+  <a href="#achievements">Achievements</a>
 </p>
 
 ---
 
-## What PISB is known for
+## About PISB
 
-| | Event | What it is | Repo |
-|---|---|---|---|
-| 🎉 | **Credenz** | Our annual technical festival: 11+ tech and non-tech events | [`credenz`](https://github.com/PICT-IEEE-Student-Branch/credenz) |
-| 🚀 | **Credenz Tech Dayz (CTD)** | Our second flagship event, held alongside the IEEE membership drive | [`ctd`](https://github.com/PICT-IEEE-Student-Branch/ctd) |
-| 🧩 | **NTH: Network Treasure Hunt** | Our famous 24-hour online puzzle hunt | [`nth`](https://github.com/PICT-IEEE-Student-Branch/nth) |
-| 💻 | **TechRush** | Our hackathon: a week to build a solution to a real problem statement | [`techrush`](https://github.com/PICT-IEEE-Student-Branch/techrush) |
-| 📚 | **SIGs** | Hands-on learning tracks taught by seniors: ML, Frontend, Full Stack, App Dev, C++, Python | [see below](#sigs) |
-| 🤖 | **Xodia** | Credenz's reinforcement-learning bot competition, with a new game every year | [`xodia`](https://github.com/PICT-IEEE-Student-Branch/xodia) |
+The **PICT IEEE Student Branch** was founded in **1988** at the Pune Institute of Computer Technology to build technical awareness among its members and keep them close to the latest developments across technology. As part of **IEEE**, the world's largest technical professional organisation, members get IEEE's libraries, magazines and research papers, along with its scholarships, competitions and global network.
+
+Every year PISB hosts **Credenz**, its annual technical festival. Credenz events include **NTH** (Network Treasure Hunt), **DataWiz**, **Reverse Coding**, **Enigma**, **Wallstreet**, **Roboliga**, and **Xodia**, a reinforcement-learning bot competition built around a new and genuinely fun game every year. Alongside Credenz, PISB runs **Credenz Tech Dayz (CTD)**, the **TechRush** hackathon, and **SIGs** (Special Interest Groups), where seniors teach juniors ML, frontend, full stack, app development, C++ and Python.
+
+PISB also runs:
+
+- **Seminars** by people from industry, on the latest in technology
+- **P.I.N.G.** (PICT IEEE Newsletter Group), PISB's technical magazine, published twice a year
+- **Women in Engineering (WIE):** workshops, seminars and outreach (including rural and orphanage teaching visits) to bring more women into technical fields
+- **The R&D wing:** student research projects and proposals
+
+**Domains:** App Development · Competitive Programming · Web Development · ML & AI · IoT & Robotics · Digital Design · Logic & Reasoning · Marketing & Finance
 
 ## Where do I push my work?
 
@@ -39,14 +43,11 @@
 
 | I want to push… | Go to | Put it in |
 |---|---|---|
+| **Credenz website** (frontend + backend) | [`credenz-website`](https://github.com/PICT-IEEE-Student-Branch/credenz-website) | `2026/frontend/` · `2026/backend/` |
+| **A Credenz event** (Xodia, NTH, DataWiz, Enigma, Reverse Coding, Wallstreet, …) | that event's repo ([list below](#credenz-events)) | `2026/` |
 | **CTD website** | [`ctd`](https://github.com/PICT-IEEE-Student-Branch/ctd) | `2026/website/` |
-| **NTH website / platform** | [`nth`](https://github.com/PICT-IEEE-Student-Branch/nth) | `2026/website/` |
-| **NTH questions** (after the hunt closes) | [`nth`](https://github.com/PICT-IEEE-Student-Branch/nth) | `2026/questions/` |
-| **TechRush** rulebook, problem statements, website | [`techrush`](https://github.com/PICT-IEEE-Student-Branch/techrush) | `2026/` (website in `2026/website/`) |
-| **Credenz website** | [`credenz`](https://github.com/PICT-IEEE-Student-Branch/credenz) | `2026/website/` |
-| **Any other Credenz event** (Reverse Coding, Enigma, DataWiz, Wallstreet, …) | [`credenz`](https://github.com/PICT-IEEE-Student-Branch/credenz) | `2026/<event>/`, e.g. `2026/reverse-coding/` |
-| **Xodia** game | [`xodia`](https://github.com/PICT-IEEE-Student-Branch/xodia) | `<year>/` |
-| **SIG** slides / code | the SIG's repo ([list below](#sigs)) | `<year>/` |
+| **TechRush** | [`techrush`](https://github.com/PICT-IEEE-Student-Branch/techrush) | `2026/` |
+| **SIG** slides / code | that SIG's repo ([list below](#sigs)) | `2026/` |
 | **Event photos** | [`memories`](https://github.com/PICT-IEEE-Student-Branch/memories) | a view-only Drive link in the README |
 
 Use the current year in place of `2026`. ⚠️ Never push `.env` files, API keys, passwords, registration sheets or anyone's phone number or email.
@@ -55,21 +56,21 @@ Use the current year in place of `2026`. ⚠️ Never push `.env` files, API key
 
 ## Credenz events
 
-Credenz '26, *Warping Realities*, ran on 16–17 Feb 2026. ✅ = material available · 🔜 = coming soon (the folder it goes in is shown in [`credenz`](https://github.com/PICT-IEEE-Student-Branch/credenz))
+Credenz '26, *Warping Realities*, ran on 16–17 Feb 2026. Website code: [`credenz-website`](https://github.com/PICT-IEEE-Student-Branch/credenz-website). Each event has its own repo, with one folder per year. ✅ = material available · 🔜 = coming soon
 
-| Event | Type | Material |
+| Event | Type | Repo |
 |---|---|---|
 | **NTH**: Network Treasure Hunt | Non-tech | 🔜 [`nth`](https://github.com/PICT-IEEE-Student-Branch/nth) |
-| **Xodia**: RL bot competition | Tech | ✅ ['26: Stranger Things](https://github.com/PICT-IEEE-Student-Branch/xodia/tree/main/2026) · ✅ ['25: Angry Birds](https://github.com/PICT-IEEE-Student-Branch/xodia/tree/main/2025) |
-| **Enigma**: aptitude and logic | Non-tech | ✅ ['24 paper](https://github.com/PICT-IEEE-Student-Branch/credenz/tree/main/2024/enigma) · 🔜 '26 |
-| **Reverse Coding** | Tech | 🔜 |
-| **Web Weaver**: web hackathon | Tech | 🔜 |
-| **Merge Conflict**: open-source contribution | Tech | 🔜 |
-| **DataWiz**: data science and ML | Tech | 🔜 |
-| **Cretronix**: electronics and circuits | Tech | 🔜 |
-| **B-Plan** | Non-tech | 🔜 |
-| **Wallstreet**: stock-market simulation | Non-tech | 🔜 |
-| **Roboliga**: robot football | Non-tech | 🔜 |
+| **Xodia**: RL bot competition | Tech | ✅ [`xodia`](https://github.com/PICT-IEEE-Student-Branch/xodia): '25 Angry Birds · '26 Stranger Things |
+| **Enigma**: aptitude and logic | Non-tech | ✅ [`enigma`](https://github.com/PICT-IEEE-Student-Branch/enigma): '24 paper |
+| **Reverse Coding** | Tech | 🔜 [`reverse-coding`](https://github.com/PICT-IEEE-Student-Branch/reverse-coding) |
+| **Web Weaver**: web hackathon | Tech | 🔜 [`web-weaver`](https://github.com/PICT-IEEE-Student-Branch/web-weaver) |
+| **Merge Conflict**: open-source contribution | Tech | 🔜 [`merge-conflict`](https://github.com/PICT-IEEE-Student-Branch/merge-conflict) |
+| **DataWiz**: data science and ML | Tech | 🔜 [`datawiz`](https://github.com/PICT-IEEE-Student-Branch/datawiz) |
+| **Cretronix**: electronics and circuits | Tech | 🔜 [`cretronix`](https://github.com/PICT-IEEE-Student-Branch/cretronix) |
+| **B-Plan** | Non-tech | 🔜 [`b-plan`](https://github.com/PICT-IEEE-Student-Branch/b-plan) |
+| **Wallstreet**: stock-market simulation | Non-tech | 🔜 [`wallstreet`](https://github.com/PICT-IEEE-Student-Branch/wallstreet) |
+| **Roboliga**: robot football | Non-tech | 🔜 [`roboliga`](https://github.com/PICT-IEEE-Student-Branch/roboliga) |
 
 ## SIGs
 
@@ -97,22 +98,7 @@ The PISB R&D wing helps students go past coursework and into real research:
 - **EPICS in IEEE proposals:** teams have drafted several community-engineering proposals: dyslexia screening, wearable gas-leak detection, sanitation-worker safety, flood monitoring, and the AgroSaarthi farming assistant. See [`epics-in-ieee`](https://github.com/PICT-IEEE-Student-Branch/epics-in-ieee).
 - R&D wing plan and paper-writing template → [`research-and-development`](https://github.com/PICT-IEEE-Student-Branch/research-and-development)
 
----
-
-## About PISB
-
-The **PICT IEEE Student Branch** was founded in **1988** at the Pune Institute of Computer Technology to build technical awareness among its members and keep them close to the latest developments across technology. As part of **IEEE**, the world's largest technical professional organisation, members get IEEE's libraries, magazines and research papers, along with its scholarships, competitions and global network.
-
-Around **Credenz**, **CTD**, **NTH**, **TechRush** and the **SIGs**, PISB also runs:
-
-- **Seminars** by people from industry, on the latest in technology
-- **P.I.N.G.** (PICT IEEE Newsletter Group), PISB's technical magazine, published twice a year
-- **Women in Engineering (WIE):** workshops, seminars and outreach (including rural and orphanage teaching visits) to bring more women into technical fields
-- **The R&D wing:** student research projects and proposals
-
-**Domains:** App Development · Competitive Programming · Web Development · ML & AI · IoT & Robotics · Digital Design · Logic & Reasoning · Marketing & Finance
-
-### Achievements
+## Achievements
 
 | Award | Year |
 |---|---|

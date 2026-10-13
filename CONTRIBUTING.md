@@ -12,15 +12,10 @@ This guide is for any PISB member who wants to add their work (code, slides, rul
 
 | I want to push… | Repo | Folder |
 |---|---|---|
-| **Credenz website** | [`credenz`](https://github.com/PICT-IEEE-Student-Branch/credenz) | `<year>/website/` |
-| **A Credenz event** (Reverse Coding, Enigma, DataWiz, Wallstreet, B-Plan, Cretronix, Web Weaver, Merge Conflict, Roboliga): questions, rulebook, platform code | [`credenz`](https://github.com/PICT-IEEE-Student-Branch/credenz) | `<year>/<event>/`, e.g. `2026/reverse-coding/` |
-| **NTH website / platform** | [`nth`](https://github.com/PICT-IEEE-Student-Branch/nth) | `<year>/website/` |
-| **NTH questions and answers** (only after the hunt closes) | [`nth`](https://github.com/PICT-IEEE-Student-Branch/nth) | `<year>/questions/` |
-| **CTD website** | [`ctd`](https://github.com/PICT-IEEE-Student-Branch/ctd) | `<year>/website/` |
-| **CTD sessions, slides, schedules** | [`ctd`](https://github.com/PICT-IEEE-Student-Branch/ctd) | `<year>/sessions/` |
-| **TechRush** rulebook and problem statements | [`techrush`](https://github.com/PICT-IEEE-Student-Branch/techrush) | `<year>/` |
-| **TechRush website / portal** | [`techrush`](https://github.com/PICT-IEEE-Student-Branch/techrush) | `<year>/website/` |
-| **Xodia** game / environment | [`xodia`](https://github.com/PICT-IEEE-Student-Branch/xodia) | `<year>/` |
+| **Credenz website** (frontend + backend) | [`credenz-website`](https://github.com/PICT-IEEE-Student-Branch/credenz-website) | `<year>/frontend/` · `<year>/backend/` |
+| **A Credenz event**: platform code, questions, rulebook | the event's own repo: [`xodia`](https://github.com/PICT-IEEE-Student-Branch/xodia) · [`nth`](https://github.com/PICT-IEEE-Student-Branch/nth) · [`datawiz`](https://github.com/PICT-IEEE-Student-Branch/datawiz) · [`enigma`](https://github.com/PICT-IEEE-Student-Branch/enigma) · [`reverse-coding`](https://github.com/PICT-IEEE-Student-Branch/reverse-coding) · [`web-weaver`](https://github.com/PICT-IEEE-Student-Branch/web-weaver) · [`merge-conflict`](https://github.com/PICT-IEEE-Student-Branch/merge-conflict) · [`cretronix`](https://github.com/PICT-IEEE-Student-Branch/cretronix) · [`b-plan`](https://github.com/PICT-IEEE-Student-Branch/b-plan) · [`wallstreet`](https://github.com/PICT-IEEE-Student-Branch/wallstreet) · [`roboliga`](https://github.com/PICT-IEEE-Student-Branch/roboliga) | `<year>/` |
+| **CTD website** and sessions | [`ctd`](https://github.com/PICT-IEEE-Student-Branch/ctd) | `<year>/website/` · `<year>/sessions/` |
+| **TechRush** rulebook, problem statements, portal | [`techrush`](https://github.com/PICT-IEEE-Student-Branch/techrush) | `<year>/` |
 | **SIG** slides, code, notebooks | [`ml-sig`](https://github.com/PICT-IEEE-Student-Branch/ml-sig) · [`frontend-sig`](https://github.com/PICT-IEEE-Student-Branch/frontend-sig) · [`fullstack-sig`](https://github.com/PICT-IEEE-Student-Branch/fullstack-sig) · [`app-dev-sig`](https://github.com/PICT-IEEE-Student-Branch/app-dev-sig) · [`cpp-sig`](https://github.com/PICT-IEEE-Student-Branch/cpp-sig) · [`python-sig`](https://github.com/PICT-IEEE-Student-Branch/python-sig) | `<year>/` |
 | **Event photos** | [`memories`](https://github.com/PICT-IEEE-Student-Branch/memories) | add a **view-only** Google Drive link to the README (don't upload the photos) |
 | **Research / EPICS proposals** | [`research-and-development`](https://github.com/PICT-IEEE-Student-Branch/research-and-development) · [`epics-in-ieee`](https://github.com/PICT-IEEE-Student-Branch/epics-in-ieee) | see each README |

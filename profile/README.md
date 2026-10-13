@@ -25,7 +25,7 @@
 
 The **PICT IEEE Student Branch** was founded in **1988** at the Pune Institute of Computer Technology to build technical awareness among its members and keep them close to the latest developments across technology. As part of **IEEE**, the world's largest technical professional organisation, members get IEEE's libraries, magazines and research papers, along with its scholarships, competitions and global network.
 
-Every year PISB hosts **Credenz**, its annual technical festival. Credenz events include **NTH** (Network Treasure Hunt), **DataWiz**, **Reverse Coding**, **Enigma**, **Wallstreet**, **Roboliga**, and **Xodia**, a reinforcement-learning bot competition built around a new and genuinely fun game every year. Alongside Credenz, PISB runs **Credenz Tech Dayz (CTD)**, the **TechRush** hackathon, and **SIGs** (Special Interest Groups), where seniors teach juniors ML, frontend, full stack, app development, C++ and Python.
+Every year PISB hosts **Credenz**, its annual technical festival. Credenz events include **NTH** (Network Treasure Hunt), **DataWiz**, **Reverse Coding**, **Enigma**, **Wallstreet**, **Roboliga**, and **Xodia**. Alongside Credenz, PISB runs **Credenz Tech Dayz (CTD)**, the **TechRush** hackathon, and **SIGs** (Special Interest Groups), where seniors teach juniors ML, frontend, full stack, app development, C++ and Python.
 
 PISB also runs:
 

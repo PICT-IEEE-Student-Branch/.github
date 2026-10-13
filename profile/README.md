@@ -4,18 +4,48 @@
 
 <p align="center">
   <b>PICT IEEE Student Branch (PISB)</b>, Pune Institute of Computer Technology · IEEE Pune Section · Region 10<br>
-  <a href="https://pictieee.in/">pictieee.in</a> · <a href="https://www.credenz.co.in/">credenz.co.in</a>
+  <i>We create · innovate · compete · explore</i><br>
+  <a href="https://pictieee.in/">pictieee.in</a> · <a href="https://www.credenz.co.in/">credenz.co.in</a> · <a href="mailto:ieee.pisb@gmail.com">ieee.pisb@gmail.com</a>
 </p>
 
 ---
 
-PISB runs **Credenz**, our annual technical fest, along with **Credenz Tech Dayz**, the **TechRush** hackathon, and **SIGs** across ML, web, app development and programming. This organisation keeps all of it in one place: event material, SIG content and memories, so every new team can **build on what earlier teams did** without starting from scratch.
+## 👋 About PISB
 
-> 🔜 = placeholder. The material is on its way; organisers, see *Contributing* below.
+The **PICT IEEE Student Branch** was founded in **1988** at the Pune Institute of Computer Technology to build technical awareness among its student members and keep them close to the latest developments across technology. It is part of **IEEE**, the world's largest technical professional organisation, so members get IEEE's libraries, magazines and research papers, along with its scholarships, competitions and global network.
+
+PISB's two flagship events are **Credenz**, the annual technical festival, and **Credenz Tech Dayz (CTD)**. Around them, the branch runs:
+
+- **Special Interest Groups (SIGs):** hands-on learning tracks taught by seniors to juniors
+- **Seminars** by people from industry, on the latest in technology
+- **P.I.N.G.** (PICT IEEE Newsletter Group): PISB's official technical magazine, published twice a year, with articles and interviews from students, faculty and industry
+- **Women in Engineering (WIE):** PISB's WIE chapter, which runs workshops, seminars and outreach (including rural and orphanage teaching visits) to bring more women into technical fields
+- **The R&D wing:** student research projects and proposals
+
+**Domains:** App Development · Competitive Programming · Web Development · ML & AI · IoT & Robotics · Digital Design · Logic & Reasoning · Marketing & Finance
+
+## 🏆 Achievements
+
+| Award | Year |
+|---|---|
+| **Best Student Branch Award**, IEEE India Council | 2024 |
+| **Best Chairperson Award** (Nidhi Yadav), IEEE India Council | 2024 |
+| **Best IEEE Student Branch**, IEEE Pune Section | 2019 |
+| **Region 10 Exemplary Student Branch Award** | 2016–17 |
+| **Darrel Chong Student Activity Award**, Silver level | 2016 |
+| **Best Student Branch Award**, IEEE India Council | 2015 |
+| **Best Student Branch Counsellor** (Dr. Rajesh Ingle) | 2014 |
+
+PISB members have also built **Wallstreet**, the stock-market simulator that debuted at Credenz and handled 1,000+ players, as well as Dloud (a distributed cloud), ML and web projects, and hackathon entries including a **winning team at the COVID-19 Global Hackathon**. See [pictieee.in/achievements](https://pictieee.in/achievements).
+
+---
+
+> **What this GitHub organisation is for:** one place for PISB's event material, SIG content, research and memories, so that every new team can **build on what earlier teams did** instead of starting from scratch.
+> 🔜 = placeholder: the material is on its way (organisers, see *Contributing*).
 
 ## 🎉 Events
 
-### [Credenz](https://github.com/PICT-IEEE-Student-Branch/credenz): the annual technical fest
+### [Credenz](https://github.com/PICT-IEEE-Student-Branch/credenz): the annual technical festival
 
 | Event | Type | Material |
 |---|---|---|
@@ -32,7 +62,7 @@ PISB runs **Credenz**, our annual technical fest, along with **Credenz Tech Dayz
 | **Roboliga**: robot football | Non-tech | 🔜 |
 
 ### Credenz Tech Dayz (CTD)
-[ctd26.vercel.app](https://ctd26.vercel.app/) · material 🔜
+PISB's second flagship event, held each year alongside the IEEE membership drive. [ctd26.vercel.app](https://ctd26.vercel.app/) · material 🔜
 
 ### [TechRush](https://github.com/PICT-IEEE-Student-Branch/techrush): PISB hackathon
 ✅ 2024 rulebook and problem statements · 🔜 later editions
@@ -48,13 +78,21 @@ PISB runs **Credenz**, our annual technical fest, along with **Credenz Tech Dayz
 | **C++** | 🔜 |
 | **Python** | 🔜 |
 
+## 📰 P.I.N.G.
+An archive of past P.I.N.G. issues 🔜
+
 ## 📸 Memories
 
-Photo galleries from Credenz, CTD, TechRush and SIG sessions → [**memories**](https://github.com/PICT-IEEE-Student-Branch/memories)
+- **Credenz '26: *Warping Realities*** → [📷 Photos (Google Drive)](https://drive.google.com/drive/folders/1ck3jHTiYASixjEPtXIQdk_mStWlPTAAo?usp=sharing)
+- More galleries (CTD, TechRush, SIGs, earlier Credenz editions) → [**memories**](https://github.com/PICT-IEEE-Student-Branch/memories)
 
 ## 🔬 Research
 
-[research-and-development](https://github.com/PICT-IEEE-Student-Branch/research-and-development): R&D wing plan and paper-writing template · [epics-in-ieee](https://github.com/PICT-IEEE-Student-Branch/epics-in-ieee): archive of PISB community-project proposals
+The PISB R&D wing helps students go past coursework and into real research:
+
+- **MRL shared task (EMNLP 2026):** PISB members are building question-answering datasets in five Devanagari-script languages (**Sanskrit, Marwari, Marathi, Hindi, Bhojpuri**) for the shared task at the *Workshop on Multilingual Representation Learning*.
+- **EPICS in IEEE proposals:** PISB teams have drafted several community-engineering proposals: dyslexia screening, wearable gas-leak detection, sanitation-worker safety, flood monitoring, and the AgroSaarthi farming assistant. All are archived in [epics-in-ieee](https://github.com/PICT-IEEE-Student-Branch/epics-in-ieee).
+- R&D wing plan and paper-writing template → [research-and-development](https://github.com/PICT-IEEE-Student-Branch/research-and-development)
 
 ## 🤝 Contributing
 
